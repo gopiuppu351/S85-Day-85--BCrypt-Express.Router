@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+form{
+  background-color: aqua;
+  display: inline-block;
+  padding: 20px;
+}
+
+form label{
+  display: inline-block;
+  width: 100px;
+}
+
+form div{
+  margin: 10px;
+}
+
+.profilePicPreview{
+  width: 150px;
+  height: 150px;
+}
+
+nav{
+  background-color: orange;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+a{
+  font-size: 2rem;
+}
+
+.active{
+  background-color: dodgerblue;
+}
